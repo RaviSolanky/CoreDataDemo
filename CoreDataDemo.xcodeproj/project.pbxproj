@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E54DF9E2C7C6524001E6AAE /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E54DF9D2C7C6524001E6AAE /* Person.swift */; };
 		4EF8C17D2C7733A6005664DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EF8C17C2C7733A6005664DB /* AppDelegate.swift */; };
 		4EF8C17F2C7733A6005664DB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EF8C17E2C7733A6005664DB /* SceneDelegate.swift */; };
 		4EF8C1812C7733A6005664DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EF8C1802C7733A6005664DB /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4E54DF9D2C7C6524001E6AAE /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		4EF8C1792C7733A6005664DB /* CoreDataDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EF8C17C2C7733A6005664DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4EF8C17E2C7733A6005664DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				4EF8C17C2C7733A6005664DB /* AppDelegate.swift */,
 				4EF8C17E2C7733A6005664DB /* SceneDelegate.swift */,
 				4EF8C1802C7733A6005664DB /* ViewController.swift */,
+				4E54DF9D2C7C6524001E6AAE /* Person.swift */,
 				4EF8C1822C7733A6005664DB /* Main.storyboard */,
 				4EF8C1882C7733A7005664DB /* Assets.xcassets */,
 				4EF8C18A2C7733A7005664DB /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E54DF9E2C7C6524001E6AAE /* Person.swift in Sources */,
 				4EF8C1812C7733A6005664DB /* ViewController.swift in Sources */,
 				4EF8C1872C7733A6005664DB /* CoreDataDemo.xcdatamodeld in Sources */,
 				4EF8C17D2C7733A6005664DB /* AppDelegate.swift in Sources */,
